@@ -1,0 +1,4 @@
+#Wed Jun 07 10:37:24 SGT 2017
+base.0=C\:\\Users\\gunawf01\\AndroidStudioProjects\\AndroBluetooth-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bda56737bc6755f3ea739c1f950b1c54d11ba678
+renamed.0=classes.dex
+file.0=C\:\\Users\\gunawf01\\AndroidStudioProjects\\AndroBluetooth-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bda56737bc6755f3ea739c1f950b1c54d11ba678\\classes.dex

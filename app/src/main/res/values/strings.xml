@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Posty:bit</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="text_bluetooth_off">Bluetooth is Off</string>
+    <string name="text_bluetooth_on">Bluetooth is On</string>
+    
+    <string name="text_enable">Enable</string>
+    <string name="text_disable">Disable</string>
+    
+        <string name="text_scan_devices">Check Mail</string>
+    <string name="text_stop_scan">Check Mail</string>
+</resources>
